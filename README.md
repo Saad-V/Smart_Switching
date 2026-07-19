@@ -345,5 +345,3 @@ This project is released under the MIT License.
 
 Feel free to fork, modify, and improve it.
 =======
-# Smart_Switching
->>>>>>> 606e56f9a329aea0b2d09ce73b6a400b20f4a498
