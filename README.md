@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Smart Switching using ESP32, IR Remote & Blynk IoT
 
 <p align="center">
